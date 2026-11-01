@@ -147,3 +147,7 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
